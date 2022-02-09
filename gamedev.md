@@ -1,5 +1,6 @@
 ---
 title: Game Design
+type: pages
 ---
 
 # Fire
