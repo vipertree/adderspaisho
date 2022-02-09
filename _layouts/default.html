@@ -32,15 +32,18 @@
       </div>
     </header>
 
-    <div class="topnav">
-      <a href="{{ '/' | absolute_url }}">Home!</a>
-      {% for page in site.pages %}
-        <a href="{{ page.url }}">{{ page.title }} </a>
-      {% endfor %}
-    </div>
+
 
     <div id="content-wrapper">
       <div class="inner clearfix">
+
+        <div class="topnav">
+          <a href="{{ '/' | absolute_url }}">Home</a>
+          {% for page in site.pages %}
+            <a href="{{ page.url }}">{{ page.title }} </a>
+          {% endfor %}
+        </div>
+
         <section id="main-content">
           {{ content }}
         </section>
