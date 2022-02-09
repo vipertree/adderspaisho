@@ -1,6 +1,5 @@
 theme: jekyll-theme-architect
-site_name: Adder's Pai Sho
+title: Adder's Pai Sho
 description: my contributions to the Pai Sho community
-
 github:
   is_project_page: false
