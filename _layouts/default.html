@@ -38,7 +38,7 @@
           {% assign sorted_pages = site.pages | sort:"order" %}
           {% for page in sorted_pages %}
             {% if page.title %}
-              <li><a href="/adderspaisho{{ page.url }}">{{ page.title }} </a></li>
+              <a href="/adderspaisho{{ page.url }}">{{ page.title }} </a>
             {% endif %}
           {% endfor %}
         </div>
