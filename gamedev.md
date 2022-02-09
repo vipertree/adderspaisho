@@ -1,6 +1,5 @@
 ---
 title: Game Design
-type: stuff
 permalink: /gamedev
 ---
 
