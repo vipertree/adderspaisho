@@ -1,6 +1,6 @@
 ---
 title: Game Design
-type: pages
+type: stuff
 permalink: /adderspaisho/gamedev
 ---
 
