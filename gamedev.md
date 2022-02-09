@@ -1,6 +1,7 @@
 ---
 title: Game Design
 type: pages
+permalink: /adderspaisho/gamedev
 ---
 
 # Fire
