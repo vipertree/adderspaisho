@@ -33,7 +33,7 @@
     </header>
 
     <div class="topnav">
-      <a href="/index.md">Home</a>
+      <a href="{{ '/' | absolute_url }}">Home!</a>
       {% for page in site.pages %}
         <a href="{{ page.url }}">{{ page.title }} </a>
       {% endfor %}
