@@ -1,6 +1,7 @@
 ---
 title: Game Design
 permalink: /gamedev
+order: 2
 ---
 
 # Fire
