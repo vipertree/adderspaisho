@@ -1,8 +1,8 @@
 ---
-title: Game Design
-permalink: /gamedev
-order: 2
+title: Fiction
+permalink: /fiction
+order: 3
 ---
 
-# Fire
-Using the basic mechanics of Skud, Fire is a game that combines chance and skill to keep players at the edge of their seat. In addition to designing this game, I programmed a playable version for The Garden Gate, borrowing heavily from existing Skud Pai Sho code.
+# White Lotus Travels
+White Lotus Travels follows Li, a nondescript fire nation boy, on daring journeys throughout the world to find the lost Avatar.
