@@ -2,7 +2,7 @@
 ---
 @import "{{ site.theme }}";
 
-// I'm justJust copying the entire Jekyll theme so that I can change individual properties of a style without removing the other aspects of that style
+// I'm just copying the entire Jekyll theme architect so that I can change individual properties of a style without removing the other aspects of that style
 @import "normalize";
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
@@ -105,7 +105,7 @@ a.button {
   font-family: 'Architects Daughter', Arial, sans-serif;
   font-size: 23px;
   line-height: 1.2;
-  color: #fff;
+  color: #d1b976;
 }
 a.button small {
   display: block;
@@ -170,7 +170,7 @@ hr {
 
 table {
   width: 100%;
-  border: 1px solid #ebebeb;
+  border: 1px solid #d1b976;
 }
 
 th {
@@ -180,12 +180,12 @@ th {
 td {
   font-weight: 300;
   text-align: center;
-  border: 1px solid #ebebeb;
+  border: 1px solid #d1b976;
 }
 
 form {
   padding: 20px;
-  background: #f2f2f2;
+  background: #d1b976;
 
 }
 
