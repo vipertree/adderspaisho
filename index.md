@@ -1,5 +1,3 @@
 # Adder's Pai Sho Website is very cool.
 
-## Testing again
-
-And here is some text.
+Here I intend to post the various sorts of Pai Sho projects I have going on.
