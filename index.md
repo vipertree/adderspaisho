@@ -1,4 +1,8 @@
-## Adder's Pai Sho Website test page
+---
+site_name: Adder's Pai Sho
+---
+##
+This is my test page.
 
 You can use the [editor on GitHub](https://github.com/vipertree/adderspaisho/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
