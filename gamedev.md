@@ -1,7 +1,7 @@
 ---
 title: Game Design
 type: stuff
-permalink: /adderspaisho/gamedev
+permalink: /gamedev
 ---
 
 # Fire
