@@ -36,7 +36,7 @@
       <div class="topnav">
         <div class="inner">
           {% assign sorted_pages = site.pages | sort:"order" %}
-          {% for page in sorted_.pages %}
+          {% for page in sorted_pages %}
             <a href="/adderspaisho{{ page.url }}">{{ page.title }} </a>
           {% endfor %}
         </div>
