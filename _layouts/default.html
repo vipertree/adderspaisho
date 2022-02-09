@@ -32,6 +32,13 @@
       </div>
     </header>
 
+    <div class="topnav">
+      <a href="/index.md">Home</a>
+      {% for page in site.pages %}
+        <a href="{{ staff_member.url }}">{{ page.title }} </a>
+      {% endfor %}
+    </div>
+
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
