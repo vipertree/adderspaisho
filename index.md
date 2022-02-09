@@ -1,5 +1,5 @@
 ---
-og:site_name: Adder's Pai Sho
+
 ---
 ## This is my test page.
 
