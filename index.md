@@ -1,7 +1,7 @@
 ---
 
 ---
-## This is my test page. I am testing.
+## Adder is making a test page.
 
 You can use the [editor on GitHub](https://github.com/vipertree/adderspaisho/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
